@@ -3,6 +3,11 @@ List of movies:
 + RObot
 + RRR
 
+List of Series:
++ Friends
++ Family Man
++ MirzaPur
+
 List of animes:
 + Naruto
 + One piece
